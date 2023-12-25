@@ -1,0 +1,3 @@
+2023-12-18 03:52:34.312662: 2) This is а test message for both file and console
+2023-12-18 03:53:04.873420: 1) This is а test message for file only
+2023-12-18 03:53:04.873590: 2) This is а test message for both file and console
